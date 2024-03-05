@@ -20,8 +20,8 @@ class RelationsManager:
             Employee(id=5, first_name="Tomas", last_name="Andre", base_salary=1600,
                      birth_date=datetime.date(1995, 1, 1), hire_date=datetime.date(2015, 1, 1)),
 
-            Employee(id=6, first_name="Scotty", last_name="Bomba", base_salary=1300,
-                     birth_date=datetime.date(1977, 1, 1), hire_date=datetime.date(2008, 1, 1))
+            Employee(id=6, first_name="Scotty", last_name="Bomba", base_salary=1000,
+                     birth_date=datetime.date(1977, 1, 1), hire_date=datetime.date(1998, 10, 10))
         ]
 
         # Employee.ID=1 is a team lead and 2, 3 are part of the team
